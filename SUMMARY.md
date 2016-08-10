@@ -6,7 +6,7 @@
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Opening Photoshop](opening-photoshop.md)
-* Creating a work area with specific dimensions
+* [Creating a work area with specific dimensions](creating-a-work-area-with-specific-dimensions.md)
 * Adding an image to your work area
 * Zooming in and out
 * Moving an image
