@@ -10,7 +10,7 @@
 * [Adding an image to your work area](adding-an-image-to-your-work-area.md)
 * [Resizing an image](resizing-an-image.md)
 * [Moving an image](moving-an-image.md)
-* Opening an image directly in Photoshop
+* [Opening an image directly in Photoshop](opening-an-image-directly-in-photoshop.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * Cropping an image
 * Using the History panel
