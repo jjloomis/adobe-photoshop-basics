@@ -13,8 +13,8 @@
 * [Opening an image directly in Photoshop](opening-an-image-directly-in-photoshop.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Cropping an image](cropping-an-image.md)
-* Using the History panel
-* Resizing your work area
+* [Using the History panel](using-the-history-panel.md)
+* [Resizing your work area](resizing-your-work-area.md)
 
 ## Saving your work
 * Saving a PSD
