@@ -12,7 +12,7 @@
 * [Moving an image](moving-an-image.md)
 * [Opening an image directly in Photoshop](opening-an-image-directly-in-photoshop.md)
 * [Zooming in and out](zooming-in-and-out.md)
-* Cropping an image
+* [Cropping an image](cropping-an-image.md)
 * Using the History panel
 * Resizing your work area
 
