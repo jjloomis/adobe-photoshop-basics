@@ -7,7 +7,7 @@
 * [Creating a project folder](creating-a-project-folder.md)
 * [Opening Photoshop](opening-photoshop.md)
 * [Creating a work area with specific dimensions](creating-a-work-area-with-specific-dimensions.md)
-* Adding an image to your work area
+* [Adding an image to your work area](adding-an-image-to-your-work-area.md)
 * Zooming in and out
 * Moving an image
 * Resizing an image
