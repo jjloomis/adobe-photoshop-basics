@@ -12,6 +12,7 @@
 * Moving an image
 * Opening an image directly in Photoshop
 * Zooming in and out
+* Cropping an image
 * Using the History panel
 * Resizing your work area
 
