@@ -14,6 +14,7 @@
 * Opening an image directly in Photoshop
 * Cropping an image
 * Using the History panel
+* Resizing your work area
 
 ## Saving your work
 * Saving a PSD
