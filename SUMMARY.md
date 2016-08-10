@@ -8,7 +8,7 @@
 * [Opening Photoshop](opening-photoshop.md)
 * [Creating a work area with specific dimensions](creating-a-work-area-with-specific-dimensions.md)
 * [Adding an image to your work area](adding-an-image-to-your-work-area.md)
-* Resizing an image
+* [Resizing an image](resizing-an-image.md)
 * Moving an image
 * Opening an image directly in Photoshop
 * Zooming in and out
