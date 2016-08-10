@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 
 ## Resizing and cropping
-* Connecting to your class folder
+* [Connecting to your class folder](connecting-to-your-class-folder.md)
 * Creating a project folder
 * Opening Photoshop
 * Creating a work area with specific dimensions
