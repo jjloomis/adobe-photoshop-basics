@@ -18,7 +18,7 @@
 * [Resizing your work area](resizing-your-work-area.md)
 
 ## Saving your work
-* Saving a PSD
+* [Saving a PSD](saving-a-psd.md)
 * Saving a JPG
 * Saving a PNG with transparency
 
