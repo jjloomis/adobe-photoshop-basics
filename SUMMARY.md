@@ -17,10 +17,10 @@
 * [Using the History panel](using-the-history-panel.md)
 * [Resizing your work area](resizing-your-work-area.md)
 
-## Saving your work
+## Saving and exporting
 * [Saving a PSD](saving-a-psd.md)
 * [Saving a JPG](saving-a-jpg.md)
-* Saving a PNG with transparency
+* [Saving a PNG with transparency](saving-a-png-with-transparency.md)
 
 ## Working with layers
 
