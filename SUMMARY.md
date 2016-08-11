@@ -23,6 +23,7 @@
 * [Saving a PNG with transparency](saving-a-png-with-transparency.md)
 
 ## Working with layers
+* Rasterizing a layer
 
 ## Working with tools
 
