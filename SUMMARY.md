@@ -9,6 +9,7 @@
 * [Creating a work area with specific dimensions](creating-a-work-area-with-specific-dimensions.md)
 * [Adding an image to your work area](adding-an-image-to-your-work-area.md)
 * [Resizing an image](resizing-an-image.md)
+* [Rotating an image](rotating-an-image.md)
 * [Moving an image](moving-an-image.md)
 * [Opening an image directly in Photoshop](opening-an-image-directly-in-photoshop.md)
 * [Zooming in and out](zooming-in-and-out.md)
