@@ -19,7 +19,7 @@
 
 ## Saving your work
 * [Saving a PSD](saving-a-psd.md)
-* Saving a JPG
+* [Saving a JPG](saving-a-jpg.md)
 * Saving a PNG with transparency
 
 ## Working with layers
