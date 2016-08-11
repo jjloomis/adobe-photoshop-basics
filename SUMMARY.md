@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Resizing and cropping
+## Resizing, cropping, and rotating
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Opening Photoshop](opening-photoshop.md)
