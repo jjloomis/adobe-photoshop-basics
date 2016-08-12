@@ -10,7 +10,6 @@
 * [Adding an image to your work area](adding-an-image-to-your-work-area.md)
 * [Resizing an image](resizing-an-image.md)
 * [Rotating an image](rotating-an-image.md)
-* [Moving an image](moving-an-image.md)
 * [Opening an image directly in Photoshop](opening-an-image-directly-in-photoshop.md)
 * [Zooming in and out](zooming-in-and-out.md)
 * [Cropping an image](cropping-an-image.md)
@@ -23,7 +22,12 @@
 * [Exporting a PNG with transparency](saving-a-png-with-transparency.md)
 
 ## Working with layers
+* [Moving an image in a layer](moving-an-image.md)
 * [Rasterizing a layer](rasterizing-a-layer.md)
+* Locking or unlocking a layer
+* Changing layer visibility
+* Adding a layer
+* Deleting a layer
 
 ## Working with tools
 

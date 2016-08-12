@@ -1,2 +1,2 @@
-# Rastering a layer
+# Rasterizing a layer
 
