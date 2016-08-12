@@ -28,6 +28,7 @@
 * Changing layer visibility
 * Adding a layer
 * Deleting a layer
+* Changing the opacity of a layer
 
 ## Working with tools
 
