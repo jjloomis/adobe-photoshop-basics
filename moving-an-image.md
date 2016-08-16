@@ -1,4 +1,4 @@
-# Moving an image
+# Moving an image in a layer
 
 1. If necassary, select the layer of the image you'd like to move.
 2. In the Tool bar, select the Move tool.
