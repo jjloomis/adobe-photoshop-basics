@@ -5,7 +5,7 @@
 * Add Anchor Point
 * Delete Anchor Point
 * Convert Point
-<br>  
+<br />  
 
 * Horizontal Type
 * Vertical Type
