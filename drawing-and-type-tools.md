@@ -2,11 +2,14 @@
 
 | Tool | Action |
 | --- | --- |
-| Pen | test |
+| Pen | test path to data file to supply the data that will be passed into tamplates. |
 | Freeform Pen | more test |
 | Add Anchor Point | test test |
 | Delete Anchor Point | Testing 123 |
 | Convert Point | Last test |
+
+path to data files to supply the data that will be passed into templates.
+
 
 Horizontal Type
 Vertical Type
@@ -16,14 +19,8 @@ Path Selection
 Direct Selection
 
 | Header | Other thing |
-| --- | ------ |
-|  Stuff | Definition |
+| --- | --- |
 | Stuff | Definition |
 | Stuff | Definition |
-
-
-
-
-
-
+| Stuff | Definition |
 
