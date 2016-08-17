@@ -24,7 +24,7 @@
 ## Working with layers
 * [Moving an image in a layer](moving-an-image.md)
 * [Rasterizing a layer](rasterizing-a-layer.md)
-* Locking or unlocking a layer
+* [Locking or unlocking a layer](locking-or-unlocking-a-layer.md)
 * Changing layer visibility
 * Adding a layer
 * Deleting a layer
