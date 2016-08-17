@@ -31,7 +31,7 @@
 * Changing the opacity of a layer
 
 ## Working with tools
-* Selection tools
+* [Selection tools](selection-tools.md)
 * Crop and Slice tools
 * Measuring tools
 * Retouching tools
