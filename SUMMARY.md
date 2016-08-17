@@ -36,7 +36,7 @@
 * [Measuring tools](measuring-tools.md)
 * [Retouching tools](retouching-tools.md)
 * [Painting tools](painting-tools.md)
-* Drawing and Type tools
+* [Drawing and Type tools](drawing-and-type-tools.md)
 * Navigation tools
 
 ## Working with colors
