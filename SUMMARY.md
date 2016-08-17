@@ -33,7 +33,7 @@
 ## Working with tools
 * [Selection tools](selection-tools.md)
 * [Crop and Slice tools](crop-and-slice-tools.md)
-* Measuring tools
+* [Measuring tools](measuring-tools.md)
 * Retouching tools
 * Painting tools
 * Drawing and Type tools
