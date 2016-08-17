@@ -11,4 +11,4 @@
 | Polygonal Lasso | Click to create points that form selection area. |
 | Magnetic Lasso | Click to create points along an area within an image. Detects separate areas in image while creating selection. |
 | Quick Selection | Clicking an area in image will will select all similar neighboring areas. |
-| Magic Wand | x |  
+| Magic Wand | Click to select all neighboring pixels of the same color.  |  
