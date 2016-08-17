@@ -31,9 +31,12 @@
 * Changing the opacity of a layer
 
 ## Working with tools
-* [Selection tools](selection-tools.md)
-* Retouching, Painting, and Erasing tools
-* Drawing, Type, and Shape tools
+* Selection tools
+* Crop and Slice tools
+* Measuring tools
+* Retouching tools
+* Painting tools
+* Drawing and Type tools
 * Navigation tools
 
 ## Working with colors
