@@ -7,27 +7,9 @@
 | Add Anchor Point | test test |
 | Delete Anchor Point | Testing 123 |
 | Convert Point | Last test |
-
-path to data files to supply the data that will be passed into templates.
-
-Horizontal Type
-Vertical Type
-Horizontal Type Mask
-Vertical Type Mask
-Path Selection
-Direct Selection
-
-| Header | Other thing |
-| --- | --- |
-| Stuff | Definition |
-| Stuff | Definition |
-| Stuff | Definition |
-
-
-|  |   |
-| --- | --- |
-| Stuff | Definition |
-| Stuff | Definition |
-| Stuff | Definition |
-
-
+| Horizontal Type | |
+| Vertical Type | |
+| Horizontal Type Mask | |
+| Vertical Type Mask | |
+| Path Selection | |
+| Direct Selection | |
