@@ -1,8 +1,13 @@
 # Measuring Tools
 
-* Eyedropper
-* 3D Material Eyedropper
-* Color Sampler
-* Ruler
-* Note
-* Count
+| Tool | Action |
+| --- | --- |
+| Eyedropper | Select color |
+| 3D Material Eyedropper | x |
+| Color Sampler | x |
+| Ruler | x |
+| Note | x |
+| Count | x |
+
+
+
