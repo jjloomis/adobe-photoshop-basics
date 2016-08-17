@@ -34,7 +34,7 @@
 * [Selection tools](selection-tools.md)
 * [Crop and Slice tools](crop-and-slice-tools.md)
 * [Measuring tools](measuring-tools.md)
-* Retouching tools
+* [Retouching tools](retouching-tools.md)
 * Painting tools
 * Drawing and Type tools
 * Navigation tools
