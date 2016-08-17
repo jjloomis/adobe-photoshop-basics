@@ -2,13 +2,13 @@
 
 | Tool | Action |
 | --- | --- |
-| Move | Move and resize objects in layer |
-| Rectangular Marquee | Drag-select rectangular area of a layer |
-| Eliptical Marquee | Drag-select eliptical area of a layer |
-| Single Column Marquee | x |
-| Single Row Marquee | x |
-| Lasso | x |
-| Polygonal Lasso | x |
-| Magnetic Lasso | x |
-| Quick Selection | x |
+| Move | Move and resize objects in layer. |
+| Rectangular Marquee | Drag-select rectangular area of a layer. |
+| Eliptical Marquee | Drag-select eliptical area of a layer. |
+| Single Column Marquee | Select a one pixel wide column. |
+| Single Row Marquee | Select a one pixel high row. |
+| Lasso | Click and drag to create self-closing selection area. |
+| Polygonal Lasso | Click to create points that form selection area. |
+| Magnetic Lasso | Click to create points along an area within an image. Detects separate areas in image while creating selection. |
+| Quick Selection | Clicking an area in image will will select all similar neighboring areas. |
 | Magic Wand | x |  
