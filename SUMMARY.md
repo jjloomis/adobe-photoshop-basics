@@ -37,7 +37,7 @@
 * [Retouching tools](retouching-tools.md)
 * [Painting tools](painting-tools.md)
 * [Drawing and Type tools](drawing-and-type-tools.md)
-* Navigation tools
+* [Navigation tools](navigation-tools.md)
 
 ## Working with colors
 

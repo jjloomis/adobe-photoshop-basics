@@ -1,7 +1,11 @@
 # Crop and Slice Tools
 
-* Crop
-* Perspective Crop
-* Slice
-* Slice Select
+| Tool | Action |
+| --- | --- |
+| Crop | x |
+| Perspective Crop | x |
+| Slice | x |
+| Slice Select | x |
+
+
 
