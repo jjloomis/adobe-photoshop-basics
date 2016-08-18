@@ -2,9 +2,9 @@
 
 | Tool | Action |
 | --- | --- |
-| Crop | x |
-| Perspective Crop | x |
-| Slice | x |
+| Crop | Crop image and change aspect ratio. |
+| Perspective Crop | Crop and distort image along a perspective grid. |
+| Slice |  |
 | Slice Select | x |
 
 
