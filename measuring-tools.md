@@ -2,7 +2,7 @@
 
 | Tool | Action |
 | --- | --- |
-| Eyedropper | Select color |
+| Eyedropper | Selects a color and makes it the foreground color. |
 | 3D Material Eyedropper | x |
 | Color Sampler | x |
 | Ruler | x |
