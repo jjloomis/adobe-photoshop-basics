@@ -2,7 +2,7 @@
 
 | Tool | Action |
 | --- | --- |
-| Move | Move and resize objects in layer. |
+| Move | Move or resize objects in layer. |
 | Rectangular Marquee | Drag-select rectangular area of a layer. |
 | Eliptical Marquee | Drag-select eliptical area of a layer. |
 | Single Column Marquee | Select a one pixel wide column. |
