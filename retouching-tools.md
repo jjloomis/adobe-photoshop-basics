@@ -15,8 +15,8 @@
 | Blur | Click and drag to soften areas of image. |
 | Sharpen | Click and drag to harden soft areas of image. |
 | Smudge | Click and drag to push pixels from one area of image into another area. |
-| Dodge | |
-| Burn | |
+| Dodge | Cick and drag to lighten area of image. |
+| Burn | Click and drag to darken area of image. |
 | Sponge | |
 
 
