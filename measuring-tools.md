@@ -4,9 +4,9 @@
 | --- | --- |
 | Eyedropper | Selects a color and makes it the foreground color. |
 | 3D Material Eyedropper | Selects Materials when working in 3D mode. |
-| Color Sampler | x |
-| Ruler | x |
-| Note | x |
+| Color Sampler | Select mutliple colors in an image. Selected color values appear in Info panel. |
+| Ruler | Click and drag to measure distance between two points on image. Measurement appears in Info panel. |
+| Note | Click to add annotation to image. Notes are do not appear on image when printed.  |
 | Count | x |
 
 
