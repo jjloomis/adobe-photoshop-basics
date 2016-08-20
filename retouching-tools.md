@@ -12,9 +12,9 @@
 | Eraser | Click and drag to remove portions of layer. |
 | Background Eraser | Select Sampling: Once in Options bar. Click and drag to erase areas of image that match intial click point. |
 | Magic Eraser | Click to erase large area based on initial color selection. |
-| Blur | |
-| Sharpen | |
-| Smudge | |
+| Blur | Click and drag to soften areas of image. |
+| Sharpen | Click and drag to harden soft areas of image. |
+| Smudge | Click and drag to push pixels from one area of image into another area. |
 | Dodge | |
 | Burn | |
 | Sponge | |
