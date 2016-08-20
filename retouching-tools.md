@@ -10,7 +10,7 @@
 | Clone Stamp | Option-click to select source. Click to apply selection to new area. |
 | Pattern Stamp| Select pattern in Options bar. Click and drag to apply pattern on image. | 
 | Eraser | Click and drag to remove portions of layer. |
-| Background Eraser |  |
+| Background Eraser | Select Sampling: Once in Options bar. Click and drag to erase areas of image that match intial click point. |
 | Magic Eraser | |
 | Blur | |
 | Sharpen | |
