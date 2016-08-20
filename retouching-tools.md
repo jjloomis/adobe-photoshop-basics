@@ -3,7 +3,7 @@
 | Tool | Action |
 | --- | --- |
 | Spot Healing Brush | Click to quickly remove small imperfections in image. |
-| Healing Brush | |
+| Healing Brush | Option-click to select source. Click to apply selection to new area. |
 | Patch | |
 | Content Aware | |
 | Red Eye | |
