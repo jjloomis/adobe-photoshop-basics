@@ -9,8 +9,8 @@
 | Red Eye | Click and drag square selection area over pupil to remove red eye. |
 | Clone Stamp | Option-click to select source. Click to apply selection to new area. |
 | Pattern Stamp| Select pattern in Options bar. Click and drag to apply pattern on image. | 
-| Eraser | |
-| Background Eraser | |
+| Eraser | Click and drag to remove portions of layer. |
+| Background Eraser |  |
 | Magic Eraser | |
 | Blur | |
 | Sharpen | |
