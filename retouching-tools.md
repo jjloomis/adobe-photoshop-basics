@@ -2,7 +2,7 @@
 
 | Tool | Action |
 | --- | --- |
-| Spot Healing Brush | |
+| Spot Healing Brush | Click to quickly remove small imperfections in image. |
 | Healing Brush | |
 | Patch | |
 | Content Aware | |
