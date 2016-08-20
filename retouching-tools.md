@@ -17,6 +17,6 @@
 | Smudge | Click and drag to push pixels from one area of image into another area. |
 | Dodge | Cick and drag to lighten area of image. |
 | Burn | Click and drag to darken area of image. |
-| Sponge | Select Desaturate or Saturate in Options bar. Click and drag to remove or add saturation to image. |
+| Sponge | Select Saturate or Desaturate in Options bar. Click and drag to add or remove saturation. |
 
 
