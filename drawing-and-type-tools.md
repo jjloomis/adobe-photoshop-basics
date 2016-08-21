@@ -9,7 +9,7 @@
 | Convert Point | Click anchor point to convert to smooth point with direction handles (or vice versa.) |
 | Horizontal Type | Click to create horiztonal text. Click and drag to create a horizontal text box. |
 | Vertical Type | Click to create vertical text. Click and drag to create a vertical text box. |
-| Horizontal Type Mask | |
-| Vertical Type Mask | |
+| Horizontal Type Mask | Select a Layer with an image in it in Layers panel. Click image to create horizontal text mask. With horizontal text mask selected, copy and paste text to new layer or project. |
+| Vertical Type Mask | Select a Layer with an image in it in Layers panel. Click image to create vertical text mask. With horizontal text mask selected, copy and paste text to new layer or project. |
 | Path Selection | |
 | Direct Selection | |
