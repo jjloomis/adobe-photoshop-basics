@@ -10,6 +10,6 @@
 | Horizontal Type | Click to create horiztonal text. Click and drag to create a horizontal text box. |
 | Vertical Type | Click to create vertical text. Click and drag to create a vertical text box. |
 | Horizontal Type Mask | Select a Layer with an image in it in Layers panel. Click image to create horizontal text mask. With horizontal text mask selected, text can be copied to new layer or project. |
-| Vertical Type Mask | Select a Layer with an image in it in Layers panel. Click image to create vertical text mask. With horizontal text mask selected, text can be copied to new layer or project |
-| Path Selection | |
+| Vertical Type Mask | Select a Layer with an image in it in Layers panel. Click image to create vertical text mask. With horizontal text mask selected, text can be copied to new layer or project. |
+| Path Selection | Click a path to select and move it. |
 | Direct Selection | |
