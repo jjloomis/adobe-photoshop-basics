@@ -7,8 +7,8 @@
 | Add Anchor Point | Click to add an anchor point to a vector path. |
 | Delete Anchor Point | Click to delet an anchor point from a vector path. |
 | Convert Point | Click anchor point to convert to smooth point with direction handles (or vice versa.) |
-| Horizontal Type | |
-| Vertical Type | |
+| Horizontal Type | Click to create horiztonal text. Click and drag to create a horizontal text box. |
+| Vertical Type | Click to create vertical text. Click and drag to create a vertical text box. |
 | Horizontal Type Mask | |
 | Vertical Type Mask | |
 | Path Selection | |
