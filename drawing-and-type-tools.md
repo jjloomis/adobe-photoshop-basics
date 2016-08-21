@@ -2,8 +2,8 @@
 
 | Tool | Action |
 | --- | --- |
-| Pen | test path to data file to supply the data that will be passed into tamplates. |
-| Freeform Pen | more test |
+| Pen | Click to create anchor points that form a vecotor path. Path can be accessed in Paths panel. |
+| Freeform Pen | Click and drag to create vector path with anchor points. Path can be accessed in Paths panel. |
 | Add Anchor Point | test test |
 | Delete Anchor Point | Testing 123 |
 | Convert Point | Last test |
