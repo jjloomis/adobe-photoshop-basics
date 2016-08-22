@@ -29,6 +29,7 @@
 * Adding a layer
 * Deleting a layer
 * Changing the opacity of a layer
+* Working with layer effects
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
