@@ -47,7 +47,7 @@
 * [Inverting a selection](inverting-a-selection.md)
 * [Turning off a selection](turning-off-a-selection.md)
 * [Removing part of an image](removing-part-of-an-image.md)
-* Retouching an image
+* [Retouching an image](retouching-an-image.md)
 * Adjusting brightness and contract
 * Making a color image black and white
 * Changing the colors of an image
