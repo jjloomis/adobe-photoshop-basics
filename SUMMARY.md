@@ -42,5 +42,7 @@
 
 ## Working with colors
 
+## Editing an image
+
 ## Working with effects
 
