@@ -50,7 +50,7 @@
 * [Removing part of an image](removing-part-of-an-image.md)
 * [Retouching an image](retouching-an-image.md)
 * [Adjusting brightness and contrast](adjusting-brightness-and-contract.md)
-* Making a color image black and white
+* [Making a color image black and white](making-a-color-image-black-and-white.md)
 * Changing the colors of an image
 * Working with filters
 * Painting on an image
