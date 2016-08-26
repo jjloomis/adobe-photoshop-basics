@@ -30,6 +30,7 @@
 * Deleting a layer
 * Changing the opacity of a layer
 * Working with layer effects
+* Duplicating a layer
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
