@@ -54,7 +54,7 @@
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
 * [Painting on an image](painting-on-an-image.md)
-* Working with type
+* [Working with type](working-with-type.md)
 * Working with layer effects
 
 ## Working with effects
