@@ -49,7 +49,7 @@
 * [Turning off a selection](turning-off-a-selection.md)
 * [Removing part of an image](removing-part-of-an-image.md)
 * [Retouching an image](retouching-an-image.md)
-* Adjusting brightness and contract
+* [Adjusting brightness and contrast](adjusting-brightness-and-contract.md)
 * Making a color image black and white
 * Changing the colors of an image
 * Working with filters
