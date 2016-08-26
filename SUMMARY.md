@@ -43,6 +43,18 @@
 ## Working with colors
 
 ## Editing an image
+* Creating a selection
+* Inverting a selection
+* Turning off a selection
+* Removing part of an image
+* Retouching an image
+* Adjusting brightness and contract
+* Making a color image black and white
+* Changing the colors of an image
+* Working with filters
+* Painting on an image
+* Working with type
+* Working with layer effects
 
 ## Working with effects
 
