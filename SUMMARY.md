@@ -53,7 +53,7 @@
 * [Making a color image black and white](making-a-color-image-black-and-white.md)
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
-* Painting on an image
+* [Painting on an image](painting-on-an-image.md)
 * Working with type
 * Working with layer effects
 

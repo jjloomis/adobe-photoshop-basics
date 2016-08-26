@@ -1,0 +1,1 @@
+ # Adding paint to an image
