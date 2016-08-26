@@ -44,7 +44,7 @@
 
 ## Editing an image
 * [Creating a selection](creating-a-selection.md)
-* Inverting a selection
+* [Inverting a selection](inverting-a-selection.md)
 * Turning off a selection
 * Removing part of an image
 * Retouching an image
