@@ -27,10 +27,11 @@
 * [Locking or unlocking a layer](locking-or-unlocking-a-layer.md)
 * [Changing layer visibility](changing-layer-visibility.md)
 * [Creating a new layer](adding-a-layer.md)
+* [Moving a layer](moving-a-layer.md)
 * Deleting a layer
 * Changing the opacity of a layer
 * Working with layer effects
-* Duplicating a layer
+* Moving a layer
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
