@@ -28,7 +28,7 @@
 * [Changing layer visibility](changing-layer-visibility.md)
 * [Creating a new layer](adding-a-layer.md)
 * [Moving a layer](moving-a-layer.md)
-* Deleting a layer
+* [Deleting a layer](deleting-a-layer.md)
 * Changing the opacity of a layer
 * Working with layer effects
 * Moving a layer
