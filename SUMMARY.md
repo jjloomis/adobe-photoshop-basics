@@ -31,7 +31,6 @@
 * [Moving a layer](moving-a-layer.md)
 * [Deleting a layer](deleting-a-layer.md)
 * [Changing the opacity of a layer](changing-the-opacity-of-a-layer.md)
-* [Working with layer effects-to delete](working-with-layer-effects-to-delete.md)
 
 ## Working with tools
 * [Selection tools](selection-tools.md)
