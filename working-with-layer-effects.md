@@ -19,5 +19,8 @@
 5. You can add, remove or switch to a different layer style using left panel of the Layer Style control box.
 6. When finished, click OK.
 
+## Deleting a Layer Style
+
+1. Make sure the layer you want to edit is selected in the Layers panel.
 
 
