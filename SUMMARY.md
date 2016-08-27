@@ -22,6 +22,7 @@
 * [Exporting a PNG with transparency](saving-a-png-with-transparency.md)
 
 ## Working with layers
+* [Duplicating a layer](duplicating-a-layer.md)
 * [Moving an image in a layer](moving-an-image.md)
 * [Rasterizing a layer](rasterizing-a-layer.md)
 * [Locking or unlocking a layer](locking-or-unlocking-a-layer.md)

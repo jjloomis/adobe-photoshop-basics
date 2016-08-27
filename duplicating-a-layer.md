@@ -1,0 +1,2 @@
+# Duplicating a layer
+
