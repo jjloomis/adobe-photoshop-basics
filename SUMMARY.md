@@ -26,7 +26,7 @@
 * [Rasterizing a layer](rasterizing-a-layer.md)
 * [Locking or unlocking a layer](locking-or-unlocking-a-layer.md)
 * [Changing layer visibility](changing-layer-visibility.md)
-* Adding a layer
+* [Creating a new layer](adding-a-layer.md)
 * Deleting a layer
 * Changing the opacity of a layer
 * Working with layer effects
