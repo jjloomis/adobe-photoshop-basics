@@ -43,7 +43,7 @@
 
 ## Working with colors
 
-## Editing an image
+## Modifying an image
 * [Creating a selection](creating-a-selection.md)
 * [Inverting a selection](inverting-a-selection.md)
 * [Turning off a selection](turning-off-a-selection.md)
