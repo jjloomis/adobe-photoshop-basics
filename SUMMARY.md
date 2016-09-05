@@ -1,5 +1,6 @@
 # Summary
 
+## Introduction
 * [Introduction](README.md)
 
 ## Resizing, rotating, and cropping
