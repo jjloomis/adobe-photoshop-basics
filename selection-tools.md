@@ -1,6 +1,6 @@
 # Selection tools
 
-| Tool | Action |
+| Tool | How it works |
 | --- | --- |
 | Move | Move or resize objects in layer. |
 | Rectangular Marquee | Drag-select rectangular area of a layer. |
