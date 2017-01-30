@@ -11,11 +11,11 @@ Written by Jeffrey John Loomis
 
 ## Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/file-and-folder-management/details).
+PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-photoshop-basics/details).
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/file-and-folder-management).
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-photoshop-basics).
 
 ## License
 
