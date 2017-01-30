@@ -1,6 +1,6 @@
 # Measuring Tools
 
-| Tool | Action |
+| Tool | How it works |
 | --- | --- |
 | Eyedropper | Click to select a color and makes it the foreground color. |
 | 3D Material Eyedropper | Click to selects Materials when working in 3D Workspace. |
