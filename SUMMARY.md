@@ -65,7 +65,7 @@
 * [Working with layer effects](working-with-layer-effects.md)
 * [Adding text](adding-text.md)
 * [Resizing text](resizing-text.md)
-* Formatting text
+* [Formatting text](formatting-text.md)
 
 ## Working with effects
 
