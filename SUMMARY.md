@@ -61,8 +61,6 @@
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
 * [Adding paint to an image](painting-on-an-image.md)
-* [Working with type](working-with-type.md)
-* [Working with layer effects](working-with-layer-effects.md)
 * [Adding text](adding-text.md)
 * [Resizing text](resizing-text.md)
 * [Formatting text](formatting-text.md)
