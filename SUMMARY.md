@@ -63,7 +63,7 @@
 * [Adding paint to an image](painting-on-an-image.md)
 * [Working with type](working-with-type.md)
 * [Working with layer effects](working-with-layer-effects.md)
-* [Adding text](creating-text.md)
+* [Adding text](adding-text.md)
 
 ## Working with effects
 
