@@ -1,9 +1,11 @@
 # Summary
 
 ## Introduction
+
 * [Introduction](README.md)
 
 ## Resizing, rotating, and cropping
+
 * [Connecting to your class folder](connecting-to-your-class-folder.md)
 * [Creating a project folder](creating-a-project-folder.md)
 * [Opening Photoshop](opening-photoshop.md)
@@ -18,11 +20,13 @@
 * [Resizing your work area](resizing-your-work-area.md)
 
 ## Saving and exporting
+
 * [Saving a PSD](saving-a-psd.md)
 * [Saving a JPG](saving-a-jpg.md)
 * [Exporting a PNG with transparency](saving-a-png-with-transparency.md)
 
 ## Working with layers
+
 * [Moving an image in a layer](moving-an-image.md)
 * [Rasterizing a layer](rasterizing-a-layer.md)
 * [Locking or unlocking a layer](locking-or-unlocking-a-layer.md)
@@ -34,6 +38,7 @@
 * [Changing the opacity of a layer](changing-the-opacity-of-a-layer.md)
 
 ## Working with tools
+
 * [Selection tools](selection-tools.md)
 * [Crop and Slice tools](crop-and-slice-tools.md)
 * [Measuring tools](measuring-tools.md)
@@ -45,6 +50,7 @@
 ## Working with colors
 
 ## Modifying an image
+
 * [Creating a selection](creating-a-selection.md)
 * [Inverting a selection](inverting-a-selection.md)
 * [Turning off a selection](turning-off-a-selection.md)
@@ -54,7 +60,7 @@
 * [Making a color image black and white](making-a-color-image-black-and-white.md)
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
-* [Painting on an image](painting-on-an-image.md)
+* [Adding paint to an image](painting-on-an-image.md)
 * [Working with type](working-with-type.md)
 * [Working with layer effects](working-with-layer-effects.md)
 
