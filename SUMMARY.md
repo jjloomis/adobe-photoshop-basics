@@ -36,6 +36,7 @@
 * [Duplicating a layer](duplicating-a-layer.md)
 * [Deleting a layer](deleting-a-layer.md)
 * [Changing the opacity of a layer](changing-the-opacity-of-a-layer.md)
+* [Turning off a Layer Style](turning-off-a-layer-style.md)
 
 ## Working with tools
 
