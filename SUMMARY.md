@@ -47,8 +47,6 @@
 * [Drawing and Type tools](drawing-and-type-tools.md)
 * [Navigation tools](navigation-tools.md)
 
-## Working with colors
-
 ## Modifying an image
 
 * [Creating a selection](creating-a-selection.md)
@@ -67,6 +65,4 @@
 * [Adding a Layer Style](adding-a-layer-style.md)
 * [Adjusting a Layer Style](adjusting-a-layer-style.md)
 * [Turning off a Layer Style](turning-off-a-layer-style.md)
-
-## Working with effects
 
