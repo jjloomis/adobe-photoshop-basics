@@ -60,7 +60,7 @@
 * [Making a color image black and white](making-a-color-image-black-and-white.md)
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
-* [Adding paint to an image](painting-on-an-image.md)
+* [Adding paint](painting-on-an-image.md)
 * [Adding text](adding-text.md)
 * [Resizing text](resizing-text.md)
 * [Formatting text](formatting-text.md)
