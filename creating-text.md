@@ -1,4 +1,4 @@
-# Creating text
+# Adding text
 
 1. If you're working with an existing type layer, make sure that layer is selected.
 2. Select a type tool.
