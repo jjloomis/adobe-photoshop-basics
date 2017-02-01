@@ -1,3 +1,8 @@
 # Locking or unlocking a layer
 
-// Is this needed? 
+## Locking a layer
+
+* In the Layers panel, 
+
+## Unlocking a layer
+
