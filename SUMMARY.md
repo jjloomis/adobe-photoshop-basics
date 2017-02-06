@@ -59,9 +59,6 @@
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
 * [Adding paint](painting-on-an-image.md)
-* [Adding text](adding-text.md)
-* [Resizing text](resizing-text.md)
-* [Formatting text](formatting-text.md)
 
 ## Working with filters and effects
 
@@ -70,4 +67,10 @@
 * [Adding a layer effect](adding-a-layer-style.md)
 * [Adjusting a layer effect](adjusting-a-layer-style.md)
 * [Turning off a layer effect](turning-off-a-layer-style.md)
+
+## Working with text
+
+* [Adding text](adding-text.md)
+* [Resizing text](resizing-text.md)
+* [Formatting text](formatting-text.md)
 
