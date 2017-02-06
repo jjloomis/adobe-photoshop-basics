@@ -66,3 +66,7 @@
 * [Adjusting a Layer Style](adjusting-a-layer-style.md)
 * [Turning off a Layer Style](turning-off-a-layer-style.md)
 
+## Working with filters and effects
+
+* Working with Filter Gallery
+
