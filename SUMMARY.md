@@ -62,12 +62,12 @@
 * [Adding text](adding-text.md)
 * [Resizing text](resizing-text.md)
 * [Formatting text](formatting-text.md)
-* [Adding a layer effect](adding-a-layer-style.md)
-* [Adjusting a layer effect](adjusting-a-layer-style.md)
-* [Turning off a layer effect](turning-off-a-layer-style.md)
 
 ## Working with filters and effects
 
 * Working with the Filter Gallery
 * Working with Filter menu items
+* [Adding a layer effect](adding-a-layer-style.md)
+* [Adjusting a layer effect](adjusting-a-layer-style.md)
+* [Turning off a layer effect](turning-off-a-layer-style.md)
 
