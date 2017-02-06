@@ -6,5 +6,3 @@
 4. To reposistion the crop area, click and drag within the crop area.
 5. To crop the image, press Return on the keyboard.
 
-
-// Add section about aspect ratio
