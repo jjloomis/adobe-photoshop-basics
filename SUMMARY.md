@@ -47,7 +47,7 @@
 * [Drawing and Type tools](drawing-and-type-tools.md)
 * [Navigation tools](navigation-tools.md)
 
-## Modifying an image
+## Editing an image
 
 * [Creating a selection](creating-a-selection.md)
 * [Inverting a selection](inverting-a-selection.md)
