@@ -58,7 +58,7 @@
 * [Making a color image black and white](making-a-color-image-black-and-white.md)
 * [Changing colors in an image](changing-the-colors-of-an-image.md)
 * [Working with filters](working-with-filters.md)
-* [Adding paint](painting-on-an-image.md)
+* [Adding paint or pencil to an image](painting-on-an-image.md)
 
 ## Working with filters and effects
 
