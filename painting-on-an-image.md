@@ -1,4 +1,4 @@
-# Adding paint to an image
+# Adding paint or pencil to an image
 
 1. Make sure the layer you want to edit is selected in the Layers panel.
 2. Set a Foreground color. This will be the paint color.
