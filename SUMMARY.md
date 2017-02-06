@@ -62,8 +62,8 @@
 
 ## Working with filters and effects
 
-* Working with the Filter Gallery
-* Working with Filter menu items
+* [Working with the Filter Gallery](working-with-the-filter-gallery.md)
+* [Working with Filter menu items](working-with-filter-menu-items.md)
 * [Adding a layer effect](adding-a-layer-style.md)
 * [Adjusting a layer effect](adjusting-a-layer-style.md)
 * [Turning off a layer effect](turning-off-a-layer-style.md)
