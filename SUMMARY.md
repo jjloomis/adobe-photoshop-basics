@@ -68,5 +68,5 @@
 
 ## Working with filters and effects
 
-* Working with Filter Gallery
+* Working with the Filter Gallery
 
