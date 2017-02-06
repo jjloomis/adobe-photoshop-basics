@@ -1,4 +1,4 @@
-# Adobe Photoshop CC 2015 Basics
+# Adobe Photoshop CC 2015: Just the Basics
 Adobe Photoshop CC 2015 Basics: Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee. Test.
 
 ## About
