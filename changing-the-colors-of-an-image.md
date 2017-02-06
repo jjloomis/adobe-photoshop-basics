@@ -1,4 +1,4 @@
-# Changing a color in an image
+# Changing a color within an image
 
 1. Make sure the layer you want to edit is selected in the Layers panel.
 2. Set the Foreground color to the color you'd like to use as a relacement color. 
