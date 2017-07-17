@@ -1,9 +1,9 @@
-# Adobe Photoshop CC 2015: Just the Basics
+# Adobe Photoshop CC 2017 Basics
 Adobe Photoshop CC 2015: Just the Basics. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
 
 ## About
 
-File and Folder Management for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
+Adobe Photoshop 2017 Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/ "Journalism, Advertising, and Media Studies website") students at [UW-Milwaukee](http://uwm.edu/ "UW–Milwaukee website").
 
 ## Credits
 
