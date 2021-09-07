@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 
-## Introduction
-
-* [Introduction](introduction/readme.md)
-
 ## Resizing, rotating, and cropping
 
 * [Connecting to your class folder](resizing-rotating-and-cropping/connecting-to-your-class-folder.md)

@@ -1,10 +1,8 @@
 # Introduction
 
-Adobe Photoshop CC 2015: Just the Basics. Instructions for Journalism, Advertising, and Media Studies students at UW-Milwaukee.
-
 ## About
 
-Adobe Photoshop 2017 Basics for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
+Adobe Photoshop 2021 Basics \| macOS Edition for [Journalism, Advertising, and Media Studies](http://uwm.edu/journalism-advertising-media-studies/) students at [UW-Milwaukee](http://uwm.edu/).
 
 ## Credits
 
@@ -12,7 +10,7 @@ Written by Jeffrey John Loomis
 
 ## Other formats
 
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/adobe-photoshop-basics/details).
+PDF, MOBI, and EPUB versions of this GitBook are available for download [here](https://www.gitbook.com/book/jjloomis/adobe-photoshop-basics/details).
 
 ## GitHub
 
